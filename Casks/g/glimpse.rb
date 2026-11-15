@@ -8,7 +8,7 @@ cask "glimpse" do
   desc "Chinese poetry reader and optional screen saver"
   homepage "https://github.com/ActivationEnergy/Glimpse"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Glimpse.app"
 
