@@ -1,6 +1,6 @@
 cask "glimpse" do
-  version "1.1.1"
-  sha256 "70ee6f12a531357bbacada863408bbc8c0ee1d8ca44eae6129acaa1ae308de42"
+  version "1.2.0"
+  sha256 "257ce45aad1d017b92508872b9e5490f6b49212e23e676c649222f3516ad0837"
 
   url "https://github.com/ActivationEnergy/Glimpse/raw/refs/tags/v#{version}/Releases/v#{version}/Glimpse-#{version}-macOS-universal.dmg"
   name "Glimpse"
